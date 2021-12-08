@@ -3,5 +3,4 @@
 This Assignment includes the datatypes in python 
 * list
 * tuple
-* set
-* dict
+* string
